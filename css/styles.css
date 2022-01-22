@@ -1,0 +1,30 @@
+@import url('utilities.css');
+@import url('var.css');
+
+body {
+    background: var(--bg);
+}
+
+h1 {
+    font-size: 8rem;
+    text-align: center;
+    text-shadow: 3px 0px black;
+    margin: 0;
+}
+
+#game {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#game div p {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#game div img {
+    display: block;
+    margin: auto;
+    width: 90%;
+}

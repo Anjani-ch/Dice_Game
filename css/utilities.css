@@ -1,0 +1,10 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.lobster { font-family: 'Lobster', cursive; }
+
+.indie-flower { font-family: 'Indie Flower', cursive; }
+
+.primary { color: var(--primary); }
